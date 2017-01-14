@@ -2,7 +2,7 @@ title: Robwall(at)github
 description: Another bold experiment in webbiness
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
